@@ -1,3 +1,4 @@
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://Paramhans-Singh.io)
 <h1 align="center">Hi 👋, I'm Paramhans Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
