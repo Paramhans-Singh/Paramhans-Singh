@@ -1,6 +1,7 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://Paramhans-Singh.io)
 <h1 align="center">Hi 👋, I'm Paramhans Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paramhans-singh&label=Profile%20views&color=0e75b6&style=flat" alt="paramhans-singh" /> </p>
 
