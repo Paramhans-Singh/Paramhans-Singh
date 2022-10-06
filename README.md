@@ -36,7 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paramhans-Singh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Paramhans Singh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&show_icons=true&locale=en&theme=tokyonight" alt="Paramhans Singh" /></p>
+<p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&show_icons=true&locale=en&theme=tokyonight" alt="Paramhans Singh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paramhans-Singh&&theme=tokyonight" alt="Paramhans Singh" /></p>
-Footer
+<p><img align="center" width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=Paramhans-Singh&&theme=tokyonight" alt="Paramhans Singh" /></p>
