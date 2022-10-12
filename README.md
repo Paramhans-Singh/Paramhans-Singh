@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I'm Paramhans Singh, Welcome to My GitHub Profile</h1>
+[![@paramsingh13's Holopin board](https://holopin.me/paramsingh13)](https://holopin.io/@paramsingh13)
+<h1 align="center">Hi 👋, I'm Paramhans Singh, Welcome to My GitHub Profile</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <img align="right" alt="GIF" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" width="400px"  />
