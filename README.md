@@ -61,8 +61,10 @@
 <br />
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paramhans-singh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+
 </p>
 
-<br>
+[![Paramhans-Singh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=paramhans-singh&&theme=xcode)](https://github.com/Paramhans-Singh)
 
-[![Aritra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=paramhans-singh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Paramhans-Singh)
+
+
