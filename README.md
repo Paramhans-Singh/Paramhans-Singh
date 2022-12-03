@@ -64,7 +64,9 @@
 
 </p>
 
-[![Paramhans-Singh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=paramhans-singh&&theme=xcode)](https://github.com/Paramhans-Singh)
+<br>
+
+<!-- [![Paramhans-Singh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=paramhans-singh&&theme=xcode)](https://github.com/Paramhans-Singh) -->
 
 
 
