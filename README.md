@@ -57,22 +57,19 @@
 
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=paramhans-singh&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paramhans-Singh&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=paramhans-singh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 </td>
 </tr>
 </table>
 <br />
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paramhans-singh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paramhans-Singh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
 
 </p>
 
 <br>
-
-<!-- [![Paramhans-Singh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=paramhans-singh&&theme=xcode)](https://github.com/Paramhans-Singh) -->
-
 
 
