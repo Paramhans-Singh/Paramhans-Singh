@@ -11,11 +11,24 @@ I am a MERN Stack Web Developer.
 
 
 ##  About Me 💫:
+
 - 🌱I'm currently working on Full Stack Projects             
 - 🔭I'm currently learning more about Backend Development.          
 - 👨‍💻 All of my projects are available at my [**Portfolio**](https://paramhans-singh.github.io/Portfolio/)
 - 📝 I regularly write articles on [**Medium-Blogging**](https://medium.com/@paramsingh13)
 - 📫 Reach me at **paramhanssingh084@gmail.com**
+
+## Connect With Me🌐
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/paramsingh1303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramhans-singh13/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paramsingh1303)
+[![Medium](https://img.shields.io/badge/Medium-%23563D7C.svg?logo=Instagram&logoColor=white)](https://medium.com/@paramsingh13)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2320232a.svg?logo=Instagram&logoColor=white)](https://www.hackerrank.com/paramsingh1303)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%FFFFFF.svg?logo=Instagram&logoColor=white)](https://www.leetcode.com/paramsingh11383)
+
+
+
 
 
 ## Tech Stack 💻
@@ -33,6 +46,7 @@ I am a MERN Stack Web Developer.
 
 
 ## GitHub Stats 📊 :
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paramhans-singh&show_icons=true&locale=en&layout=compact" alt="Paramhans-Singh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paramhans-singh&show_icons=true&locale=en" alt="Paramhans-Singh" /></p>
