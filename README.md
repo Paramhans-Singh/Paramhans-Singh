@@ -27,10 +27,6 @@ I am a MERN Stack Web Developer.
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2320232a.svg?logo=Instagram&logoColor=white)](https://www.hackerrank.com/paramsingh1303)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%FFFFFF.svg?logo=Instagram&logoColor=white)](https://www.leetcode.com/paramsingh11383)
 
-
-
-
-
 ## Tech Stack 💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
