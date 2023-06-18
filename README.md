@@ -57,16 +57,16 @@
 
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paramhans-Singh&show_icons=true&locale=en&layout=compact&theme=cobalt" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paramhans-Singh&show_icons=true&locale=en&layout=compact&theme=shadow_green" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=cobalt"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=shadow_green"/>
 </td>
 </tr>
 </table>
 <br />
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paramhans-Singh&theme=tokyonight"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paramhans-Singh&theme=shadow_green"/>
 
 </p>
 
