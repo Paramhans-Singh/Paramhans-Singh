@@ -33,10 +33,11 @@ I am a MERN Stack Web Developer.
 
 
 ## GitHub Stats 📊 :
-![](https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paramhans-singh&show_icons=true&locale=en&layout=compact" alt="Paramhans-Singh" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paramhans-singh&show_icons=true&locale=en" alt="Paramhans-Singh" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Paramhans-Singh&theme=merko&hide_border=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paramhans-singh&" alt="Paramhans-Singh" /></p>
+
 
 
