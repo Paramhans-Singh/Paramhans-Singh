@@ -55,7 +55,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 | ------------- | ------------- |
 
 
-#### Top Repositories
+### 🌐 Top Repositories
 
 <a href="https://github.com/Paramhans-Singh/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=Portfolio&theme=buefy" />
