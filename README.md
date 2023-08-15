@@ -6,6 +6,10 @@
 
 <a href='https://www.linkedin.com/in/paramhans-singh13/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/ParamSingh1303'><img align='left' alt="twitter" src="./assets/twitter.svg" height='18px'/></a>
+<a href='https://leetcode.com/paramsingh03/'><img align='left' alt="leetcode" src="./assets/leetcode.svg" height='18px'/></a>
+<a href='https://www.hackerrank.com/paramsingh1303?hr_r=1'><img align='left' alt="hackerrank" src="./assets/hackerrank.svg" height='18px'/></a>
+<a href='https://github.com/Paramhans-Singh'><img align='left' alt="github" src="./assets/github.svg" height='18px'/></a>
+<a href='https://medium.com/@paramsingh13'><img align='left' alt="medium" src="./assets/medium.svg" height='18px'/></a>
 
 <br>
 <br>
@@ -19,12 +23,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **chat-engine**
+- 🔭 &nbsp; I’m currently working on **Chat-Engine**
 - 🌱 &nbsp; I’m currently learning React JS; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Paramhans-Singh)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Paramhans-Singh);
+- 💬 &nbsp; For any collaboration or query mail me at [Email](paramhanssingh084@gmail.com);
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/paramhans-singh13/)
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/15cVu-vBQDo0m4yT3Z0a5k1iaY3ri0h0L/view?usp=sharing)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/paramhans-singh13/);
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/15cVu-vBQDo0m4yT3Z0a5k1iaY3ri0h0L/view?usp=sharing);
 <br>
 
 ### 🔨 Languages and Tools:
