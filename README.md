@@ -1,53 +1,64 @@
-[![@paramsingh13's Holopin board](https://holopin.me/paramsingh13)](https://holopin.io/@paramsingh13)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋;This+is+Paramhans+Singh..;Nice+to+meet+you!&size=30">
+  </a>
+</h1>
 
-<h1 align="center">Hey 👋, I'm Paramhans Singh, Welcome to My GitHub Profile</h1>
-<h3 align="center">I am a MERN Stack Web Developer </h3>
+<a href='https://www.linkedin.com/in/paramhans-singh13/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/ParamSingh1303'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+</h5>
+<br>
+<br>
 
-<img align="right" alt="GIF" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" width="400px"  />
+<div>
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, MERN Stack Developer 📱, Competitive Programmer 💻 and Web Designer 🎨). I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
+<br>
+<br>
+</div>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paramhans-singh&label=Profile%20views&color=0e75b6&style=flat" alt="paramhans-singh" /> </p>
+- 🔭 &nbsp; I’m currently working on **chat-engine**
+- 🌱 &nbsp; I’m currently learning React JS; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Paramhans-Singh)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/paramhans-singh13/)
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/15cVu-vBQDo0m4yT3Z0a5k1iaY3ri0h0L/view?usp=sharing)
+<br>
 
-<p align="left"> <a href="https://twitter.com/paramsingh1303" target="blank"><img src="https://img.shields.io/twitter/follow/paramsingh1303?logo=twitter&style=for-the-badge" alt="paramsingh1303" /></a> </p>
+### 🔨 Languages and Tools:
 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 
-##  About Me 💫:
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 
-- 🌱I'm currently working on Full Stack Projects             
-- 🔭I'm currently learning more about Backend Development.          
-- 👨‍💻 All of my projects are available at my [**Portfolio**](https://paramhans-singh.github.io/Portfolio/)
-- 📝 I regularly write articles on [**Medium-Blogging**](https://medium.com/@paramsingh13)
-- 📫 Reach me at **paramhanssingh084@gmail.com**
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 
-## Connect With Me🌐
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/paramsingh1303)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramhans-singh13/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paramsingh1303)
-[![Medium](https://img.shields.io/badge/Medium-%23563D7C.svg?logo=Instagram&logoColor=white)](https://medium.com/@paramsingh13)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2320232a.svg?logo=Instagram&logoColor=white)](https://www.hackerrank.com/paramsingh1303)
-[![Leetcode](https://img.shields.io/badge/Leetcode-%FFFFFF.svg?logo=Instagram&logoColor=white)](https://www.leetcode.com/paramsingh11383)
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 
-## Tech Stack 💻
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
-## GitHub Stats 📊 :
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paramhans-singh&show_icons=true&locale=en&layout=compact" alt="Paramhans-Singh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paramhans-singh&show_icons=true&locale=en" alt="Paramhans-Singh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paramhans-singh&" alt="Paramhans-Singh" /></p>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<br>
 
 
+| <a href="https://github.com/Paramhans-Singh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paramhans-Singh github stats" /></a> | <a href="https://github.com/Paramhans-Singh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+#### Top Repositories
+
+<a href="https://github.com/Paramhans-Singh/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=Portfolio&theme=buefy" />
+</a>
+<a href="https://github.com/Paramhans-Singh/5Mart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=5Mart&theme=buefy" />
+</a>
 
