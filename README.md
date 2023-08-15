@@ -1,26 +1,24 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋;This+is+Paramhans+Singh..;Nice+to+meet+you!&align=center&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋;This+is+Paramhans+Singh..;Nice+to+meet+you!&align=center&size=35">
   </a>
 </h1>
-
-<a href='https://www.linkedin.com/in/paramhans-singh13/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/ParamSingh1303'><img align='left' alt="twitter" src="./assets/twitter.svg" height='18px'/></a>
-<a href='https://leetcode.com/paramsingh03/'><img align='left' alt="leetcode" src="./assets/leetcode.svg" height='18px'/></a>
-<a href='https://www.hackerrank.com/paramsingh1303?hr_r=1'><img align='left' alt="hackerrank" src="./assets/hackerrank.svg" height='18px'/></a>
-<a href='https://github.com/Paramhans-Singh'><img align='left' alt="github" src="./assets/github.svg" height='18px'/></a>
-<a href='https://medium.com/@paramsingh13'><img align='left' alt="medium" src="./assets/medium.svg" height='18px'/></a>
-
+<a href='https://www.linkedin.com/in/paramhans-singh13/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='28px'/></a>
+<a href='https://twitter.com/ParamSingh1303'><img align='left' alt="twitter" src="./assets/twitter.svg" height='28px'/></a>
+<a href='https://leetcode.com/paramsingh03/'><img align='left' alt="leetcode" src="./assets/leetcode.svg" height='28px'/></a>
+<a href='https://www.hackerrank.com/paramsingh1303?hr_r=1'><img align='left' alt="hackerrank" src="./assets/hackerrank.svg" height='28px'/></a>
+<a href='https://github.com/Paramhans-Singh'><img align='left' alt="github" src="./assets/github.svg" height='28px'/></a>
+<a href='https://medium.com/@paramsingh13'><img align='left' alt="medium" src="./assets/medium.svg" height='28px'/></a>
 <br>
 <br>
-
+<br>
 <div>
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, MERN Stack Developer 📱, Competitive Programmer 💻 and Web Designer 🎨). I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
-<br>
-<br>
 </div>
+<br>
+<br>
 <img align="right" alt="GIF" src="./techstack.gif" width="360px" style="border-radius:20%; border:2px red solid"> 
-  
+
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Chat-Engine**
@@ -32,7 +30,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-
+<br>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="./assets/java.png"></a>
 <a href="https://isocpp.org/" target="_blank"> <img src="./assets/c++.png" align="left" alt="c++" height='42px'> </a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="./assets/python.webp"></a>
@@ -40,6 +38,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="./assets/css.png" align="left" alt="css" height='42px'> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="./assets/js.webp"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="./assets/reactjs.png"></a>
+<br>
 <br>
 <br>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./assets/node.png"></a>
@@ -55,18 +54,21 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://aws.amazon.com/free/?trk=14a4002d-4936-4343-8211-b5a150ca592b&sc_channel=ps&ef_id=CjwKCAjwxOymBhAFEiwAnodBLHMYFgsBrGYXlhq53spCAvqQF7tUOGjPuGpv0rKNEzpm91Bbze-CExoCW2UQAvD_BwE:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws!10712784856!111477279771&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-ti" target="_blank"> <img src="./assets/aws.webp" align="left" alt="aws" height='42px'> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="./assets/ubuntu.png" align="left" alt="ubuntu" height='42px'> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="./assets/figma.png" align="left" alt="figma" height='42px'> </a>
-
+<br>
 <br>
 <br>
 
 ###  💻  GitHub Stats:
 
+<br>
+
 <a href="https://github.com/Paramhans-Singh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paramhans-Singh github stats"></a> | <a href="https://github.com/Paramhans-Singh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&layout=compact&theme=buefy&hide_border=true"></a>
 | ------------- | ------------- |
-
+<br>
 
 ### 🌐 Top Repositories
 
+<br>
 <a href="https://github.com/Paramhans-Singh/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=Portfolio&theme=buefy" />
 </a>
