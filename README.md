@@ -27,7 +27,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🌱 &nbsp; I’m currently learning React JS; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Paramhans-Singh);
 - 💬 &nbsp; For any collaboration or query mail me at [Email](paramhanssingh084@gmail.com);
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/paramhans-singh13/);
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/15cVu-vBQDo0m4yT3Z0a5k1iaY3ri0h0L/view?usp=sharing);
 <br>
@@ -49,8 +48,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <br>
 <br>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'> </a>
+<a href="" target="_blank"> <img src="./assets/c++.svg" align="left" alt="c++" height='42px'> </a>
 
+<a href="" target="_blank"> <img src="./assets/css.svg" align="left" alt="css" height='42px'> </a>
+
+<a href="" target="_blank"> <img src="./assets/html.svg" align="left" alt="html" height='42px'> </a>
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'> </a>
 
 <br>
 <br>
