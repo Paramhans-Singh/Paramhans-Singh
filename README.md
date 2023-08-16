@@ -40,6 +40,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="./assets/reactjs.png"></a>
 <br>
 <br>
+<br>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./assets/node.png"></a>
 <a href="https://angular.io/" target="_blank"> <img src="./assets/angular.svg" align="left" alt="angular" height='42px'> </a>
 <a href="https://expressjs.com/" target="_blank"> <img src="./assets/express.png" align="left" alt="express" height='42px'> </a>
@@ -56,13 +57,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="" target="_blank"> <img src="./assets/tailwind.png" align="left" alt="tailwind" height='42px'> </a>
 <br>
 <br>
+<br>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="./assets/bootstrap.png" align="left" alt="bootstrap" height='42px'> </a>
 <a href="https://sass-lang.com/" target="_blank"> <img src="./assets/sass.webp" align="left" alt="sass" height='42px'> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="./assets/postman.png" align="left" alt="postman" height='42px'> </a>
 <a href="https://gulpjs.com/" target="_blank"> <img src="./assets/gulp.webp" align="left" alt="gulp" height='42px'> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="./assets/docker.webp" align="left" alt="docker" height='42px'> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="./assets/vue.png" align="left" alt="vue" height='42px'> </a>
-
 <br>
 <br>
 <br>
@@ -71,7 +72,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-<a href="https://github.com/Paramhans-Singh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paramhans-Singh github stats"></a> | <a href="https://github.com/Paramhans-Singh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&layout=compact&theme=buefy&hide_border=true"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paramhans-Singh github stats"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&layout=compact&theme=buefy&hide_border=true"></a>
 | ------------- | ------------- |
 <br>
 
@@ -79,9 +80,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 <a href="https://github.com/Paramhans-Singh/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=Portfolio&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=Portfolio&theme=buefy">
 </a>
 <a href="https://github.com/Paramhans-Singh/5Mart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=5Mart&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=5Mart&theme=buefy">
 </a>
 
