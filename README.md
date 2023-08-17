@@ -54,10 +54,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://aws.amazon.com/free/?trk=14a4002d-4936-4343-8211-b5a150ca592b&sc_channel=ps&ef_id=CjwKCAjwxOymBhAFEiwAnodBLHMYFgsBrGYXlhq53spCAvqQF7tUOGjPuGpv0rKNEzpm91Bbze-CExoCW2UQAvD_BwE:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws!10712784856!111477279771&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-ti" target="_blank"> <img src="./assets/aws.webp" align="left" alt="aws" height='42px'> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="./assets/ubuntu.png" align="left" alt="ubuntu" height='42px'> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="./assets/figma.png" align="left" alt="figma" height='42px'> </a>
+<br>
+<br>
+<br>
 <a href="" target="_blank"> <img src="./assets/tailwind.png" align="left" alt="tailwind" height='42px'> </a>
-<br>
-<br>
-<br>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="./assets/bootstrap.png" align="left" alt="bootstrap" height='42px'> </a>
 <a href="https://sass-lang.com/" target="_blank"> <img src="./assets/sass.webp" align="left" alt="sass" height='42px'> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="./assets/postman.png" align="left" alt="postman" height='42px'> </a>
