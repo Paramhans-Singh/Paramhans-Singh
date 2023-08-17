@@ -72,8 +72,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paramhans-Singh github stats"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&layout=compact&theme=buefy&hide_border=true"></a>
-| ------------- | ------------- |
+![Paramhans-Singh's Stats](https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&theme=vue&show_icons=true&hide_border=false&count_private=true)
+![Paramhans-Singh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&theme=vue&show_icons=true&hide_border=false&layout=compact)
+
+![Paramhans-Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paramhans-Singh&theme=vue)
 <br>
 
 ### 🌐 Top Repositories
