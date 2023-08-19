@@ -76,15 +76,18 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ![Paramhans-Singh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Paramhans-Singh&theme=vue)
+<br>
+<br>
 ![Paramhans-Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paramhans-Singh&theme=vue)
 
 <br>
 
-### 🌐 Open Source Participation
+### 🌐 Open Source - My Achievements
 <ul type ="disc">
-  <li>Hacktoberfest - Winner Goodies</li>
-  <li>GSSOC(GirlScript Summer of Code) - Top 25</li>
-  <li>SSOC(Social Summer Of Code) - Top 15</li>
+  <li><a href="">Hacktoberfest</a> - Winner Goodies</li>
+  <li><a href="https://gssoc.girlscript.tech/">GSSOC(GirlScript Summer of Code</a>) - Top 25</li>
+  <li><a href="https://hack2skill.com/hack/ssoc">SSOC(Social Summer Of Code)</a> - Top 15</li>
+  <li><a href="https://www.holopin.io/@paramsingh13#badges">My Holopin Badges</a></li>
 </ul>
 
 ### 🛠️ Top Repositories
