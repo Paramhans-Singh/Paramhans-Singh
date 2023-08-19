@@ -13,7 +13,7 @@
 <br>
 <br>
 <div>
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, MERN Stack Developer 📱, Competitive Programmer 💻 and Web Designer 🎨). I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Cyber Security 💻, DSA(JAVA) 🛠️, MERN Stack Developer 📱, Competitive Programmer 💻 and Web Designer 🎨). I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
 </div>
 <br>
 <br>
@@ -76,8 +76,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ![Paramhans-Singh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&theme=vue&show_icons=true&hide_border=false&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Paramhans-Singh&theme=vue)
-
 ![Paramhans-Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paramhans-Singh&theme=vue)
+
 <br>
 
 ### 🌐 Open Source Participation
