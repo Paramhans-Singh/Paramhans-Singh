@@ -80,7 +80,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ![Paramhans-Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paramhans-Singh&theme=vue)
 <br>
 
-### 🌐 Top Repositories
+### 🌐 Open Source Participation
+<ul type ="disc">
+  <li>Hacktoberfest - Winner Goodies</li>
+  <li>GSSOC(GirlScript Summer of Code) - Top 25</li>
+  <li>SSOC(Social Summer Of Code) - Top 15</li>
+</ul>
+
+### 🛠️ Top Repositories
 
 <br>
 <a href="https://github.com/Paramhans-Singh/Portfolio">
