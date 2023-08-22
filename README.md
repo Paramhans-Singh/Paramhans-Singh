@@ -72,10 +72,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-![Paramhans-Singh's Stats](https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&theme=vue&show_icons=true&hide_border=false&count_private=true)
-![Paramhans-Singh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&theme=vue&show_icons=true&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&theme=vue&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Paramhans-Singh&theme=vue)
+![](https://streak-stats.demolab.com/?user=Paramhans-Singh&theme=vue)
 <br>
 <br>
 ![Paramhans-Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paramhans-Singh&theme=vue)
