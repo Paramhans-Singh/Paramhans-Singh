@@ -72,10 +72,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&theme=vue&hideborder=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&theme=vue&hideborder=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&theme=vue-dark&hideborder=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&theme=vue-dark&hideborder=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://streak-stats.demolab.com/?user=Paramhans-Singh&theme=vue&hideborder=false)
+![](https://streak-stats.demolab.com/?user=Paramhans-Singh&theme=vue-dark&hideborder=false)
 <br>
 <br>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Paramhans-Singh&theme=vue)
@@ -99,9 +99,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 <a href="https://github.com/Paramhans-Singh/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=Portfolio&theme=vue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=Portfolio&theme=vue-dark">
 </a>
 <a href="https://github.com/Paramhans-Singh/5Mart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=5Mart&theme=vue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=5Mart&theme=vue-dark">
 </a>
 
