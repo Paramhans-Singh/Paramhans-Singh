@@ -94,8 +94,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <ul type ="circle">
   <li><a href="">Hacktoberfest</a> - Winner Goodies</li>
-  <li><a href="https://gssoc.girlscript.tech/">GSSOC(GirlScript Summer of Code</a>) - Top 25</li>
-  <li><a href="https://hack2skill.com/hack/ssoc">SSOC(Social Summer Of Code)</a> - Top 15</li>
+  <li><a href="https://gssoc.girlscript.tech/">GSSOC(GirlScript Summer of Code</a>) - Top 25 || <a href="https://github.com/Paramhans-Singh/Paramhans-Singh/blob/main/top%20100%20gssoc.PNG">CERTIFICATE</a></li>
+  <li><a href="https://hack2skill.com/hack/ssoc">SSOC(Social Summer Of Code)</a> - Top 15 || <a href="https://github.com/Paramhans-Singh/Paramhans-Singh/blob/main/SSOC.PNG">CERTIFICATE</a></li>
   <li><a href="https://www.holopin.io/@paramsingh13#badges">My Holopin Badges</a></li>
 </ul>
 <br>
