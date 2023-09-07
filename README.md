@@ -80,9 +80,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <br>
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Paramhans-Singh&theme=vue)](https://git.io/streak-stats)
-
-<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Paramhans-Singh&theme=vue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Paramhans-Singh&theme=vue)
 
