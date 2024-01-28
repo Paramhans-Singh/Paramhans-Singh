@@ -4,10 +4,12 @@
   </a>
 </h1>
 <a href='https://www.linkedin.com/in/paramhans-singh13/'><img align='left' alt="linkedin" src="./assets/linkedin.svg" height='28px'/></a>
-<a href='https://twitter.com/ParamSingh1303'><img align='left' alt="twitter" src="./assets/twitter.svg" height='28px'/></a>
+<a href='https://portfolio-paramhans-singh.vercel.app/'><img align='left' alt="portfolio" src="./assets/portfolio" height='28px'/></a>
+<a href='https://www.codechef.com/users/paramhans728'><img align='left' alt="codechef" src="./assets/codechef" height='28px'/></a>
 <a href='https://leetcode.com/paramsingh03/'><img align='left' alt="leetcode" src="./assets/leetcode.svg" height='28px'/></a>
 <a href='https://www.hackerrank.com/paramsingh1303?hr_r=1'><img align='left' alt="hackerrank" src="./assets/hackerrank.svg" height='28px'/></a>
 <a href='https://github.com/Paramhans-Singh'><img align='left' alt="github" src="./assets/github.svg" height='28px'/></a>
+<a href='https://twitter.com/ParamSingh1303'><img align='left' alt="twitter" src="./assets/twitter.svg" height='28px'/></a>
 <a href='https://medium.com/@paramsingh13'><img align='left' alt="medium" src="./assets/medium.svg" height='28px'/></a>
 <br>
 <br>
