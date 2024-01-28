@@ -96,10 +96,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
+<a href="https://github.com/Paramhans-Singh/INDchat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=INDchat&theme=vue">
+</a>
 <a href="https://github.com/Paramhans-Singh/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=Portfolio&theme=vue">
-</a>
-<a href="https://github.com/Paramhans-Singh/5Mart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=5Mart&theme=vue">
 </a>
 
