@@ -74,11 +74,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-![Paramhans-Singh's Stats](https://github-readme-stats.vercel.app/api?username=Paramhans-Singh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Paramhans-Singh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-<br>
-<br>
-![](https://github-readme-activity-graph.vercel.app/graph?username=Paramhans-Singh&theme=vue)
+## GitHub Stats 📊 :
+![Paramhans-Singh's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&hide_progress=false&layout=compact&theme=vue&hide_border=true)
+![Paramhans-Singh's Stats](https://github-readme-streak-stats.herokuapp.com/?user=Paramhans-Singh&theme=vue&hide_border=true)
 
 <br>
 
